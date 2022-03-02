@@ -4,5 +4,6 @@
 <p>
   > Eclipse IDE C++
   <br>
+  OpenCV 4.5.2
 </p> 
 
