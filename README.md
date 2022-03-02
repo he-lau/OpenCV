@@ -5,5 +5,7 @@
   > Eclipse IDE C++
   <br>
   > OpenCV 4.5.2
+  <br>
+  > MinGW (Windows 10)
 </p> 
 
